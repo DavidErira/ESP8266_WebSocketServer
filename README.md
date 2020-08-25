@@ -8,7 +8,7 @@ Tener en cuenta que no tiene programado un servidor HTTP para servir un codigo d
 ## Comenzando 🚀
 
 Se programa el manejador de eventos del socket en esta función
-![visualización](https://raw.githubusercontent.com/DavidErira/ESP8266_WebSocketServer/master/ME.png)
+![ScreenShot](https://raw.githubusercontent.com/DavidErira/ESP8266_WebSocketServer/master/ME.png)
 Se le puede programar que hacer en cada evento, cuando se conecta, desconecta o recibe un mensaje
 
 Se programó en caso de recibir un mensaje "ON" un codigo y en caso de recibir un mensaje "OF" otro codigo
